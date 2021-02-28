@@ -13,5 +13,5 @@ Constraints
 * tid is PK of tag_names
 * (mid, tid) is PK of tags, mid also FK references to movies, tid also FK referencs to tag_names
 
-For movies, rating and num_rating, values is NULL when the values is not provide
-FOr actors, name is UNKNOWN if the values is not provide, cannot use NULL since it is PK
+For movies, rating and num_rating, values is NULL when the values is not provide.
+For actors, name is UNKNOWN if the values is not provide, cannot use NULL since it is PK
