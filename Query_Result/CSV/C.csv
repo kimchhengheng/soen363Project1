@@ -1,8 +1,8 @@
-"NUM_MOVIES","GENRE"
-1003,"Adventure"
-1086,"Crime"
-1445,"Action"
-1644,"Romance"
-1664,"Thriller"
-3566,"Comedy"
-5076,"Drama"
+"GENRE","NUM_MOVIES"
+"Adventure",1003
+"Crime",1086
+"Action",1445
+"Romance",1644
+"Thriller",1664
+"Comedy",3566
+"Drama",5076
